@@ -23,7 +23,7 @@
 }
 
 /* Posititoning Classes */
-section.float figure + h3 + p {
+section.float {
   float: left;
 }
 .float-right {
