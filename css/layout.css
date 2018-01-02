@@ -23,9 +23,12 @@
 }
 
 /* Posititoning Classes */
-section.float {
+.col-1 {
   float: left;
+  width: 33%;
 }
-.float-right {
+
+.col-2 {
   float: left;
+  width: 66%;
 }
