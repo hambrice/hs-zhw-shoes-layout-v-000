@@ -27,5 +27,5 @@ section.float figure + h3 + p {
   float: left;
 }
 .float-right {
-  float: right;
+  float: left;
 }
