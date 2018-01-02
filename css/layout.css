@@ -23,7 +23,7 @@
 }
 
 /* Posititoning Classes */
-section img {
+section img + h3 + p{
   float: left;
 }
 .float-right {
