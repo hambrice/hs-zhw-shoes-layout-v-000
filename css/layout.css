@@ -24,4 +24,6 @@
 
 /* Posititoning Classes */
 
-
+section.shadow figure{
+  float: right;
+} 
